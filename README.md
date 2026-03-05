@@ -32,7 +32,7 @@ Para executar o projeto, será necessário instalar os seguintes programas:
 
 ```bash
 # clonando projeto do git
-$ git clone https://github.com/guilhermert14/projeto_web_api.git
+$ git clone https://github.com/reis-guilherme/outsera-web.git
 
 # acesse a pasta do projeto
 $ cd outsera-web
