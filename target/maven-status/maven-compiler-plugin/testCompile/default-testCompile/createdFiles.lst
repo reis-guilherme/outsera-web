@@ -1,0 +1,12 @@
+outsera\web\pages\HomePage.class
+outsera\web\funcs\CarrinhoFunc.class
+outsera\web\funcs\CheckoutFunc.class
+outsera\web\steps\CheckoutStep.class
+outsera\web\pages\LoginPage.class
+outsera\web\funcs\HomeFunc.class
+runTest\RunTest.class
+outsera\web\pages\CarrinhoPage.class
+outsera\web\pages\CheckoutPage.class
+outsera\web\funcs\LoginFunc.class
+outsera\web\steps\HomeStep.class
+outsera\web\steps\LoginStep.class

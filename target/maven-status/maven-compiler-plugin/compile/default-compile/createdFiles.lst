@@ -1,0 +1,6 @@
+outsera\web\common\BaseTest.class
+outsera\web\enums\Web$1.class
+outsera\web\enums\Web.class
+outsera\web\enums\Web$2.class
+outsera\web\configuration\Hooks.class
+outsera\web\interfaces\WebApplication.class
