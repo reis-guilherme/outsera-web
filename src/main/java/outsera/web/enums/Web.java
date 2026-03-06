@@ -7,7 +7,6 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import outsera.web.interfaces.WebApplication;
-
 import java.util.HashMap;
 import java.util.Map;
 
